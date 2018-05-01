@@ -778,6 +778,8 @@ TODO
 
 ## 微服务思想
 * [《微服务架构设计》](https://www.cnblogs.com/wintersun/p/6219259.html)
+* [《微服务架构技术栈选型手册》](http://www.infoq.com/cn/articles/micro-service-technology-stack)
+
 ### 康威定律
 * [《微服务架构的理论基础 - 康威定律》](https://yq.aliyun.com/articles/8611)
 	* 定律一：组织沟通方式会通过系统设计表达出来，就是说架构的布局和组织结构会有相似。
@@ -812,7 +814,7 @@ TODO
 
 * [《JVM性能调优监控工具jps、jstack、jmap、jhat、jstat、hprof使用详解》](https://my.oschina.net/feichexia/blog/196575)
 
-## APM
+## APM（调用链监控）
 
 APM —  Application Performance Management
 
@@ -820,7 +822,7 @@ APM —  Application Performance Management
 
 * [《开源APM技术选型与实战》](http://www.infoq.com/cn/articles/apm-Pinpoint-practice)
 	* 主要基于 Google的Dapper（大规模分布式系统的跟踪系统） 思想。
-	* 开源软件有：Pinpoint、SkyWalking、Zipkin、CAT
+	* 开源软件有：Pinpoint、SkyWalking、Zipkin、CAT（国产）
 
 
 ## 统计分析
@@ -894,11 +896,12 @@ APM —  Application Performance Management
 * [《全链路压测经验》](https://www.jianshu.com/p/27060fd61f72)
 
 
-### A/B Test
+### A/B 、灰度、蓝绿测试
 
 * [《技术干货 | AB 测试和灰度发布探索及实践》](https://testerhome.com/topics/11165)
 * [《nginx 根据IP 进行灰度发布》](http://blog.51cto.com/purplegrape/1403123)
 
+* [《蓝绿部署、A/B 测试以及灰度发布》](https://www.v2ex.com/t/344341)
 
 ## 虚拟化
 
@@ -1971,6 +1974,12 @@ TODO
 ## Serverless
 
 TODO
+
+## Service Mesh
+
+TODO
+
+* [《什么是Service Mesh？》](https://time.geekbang.org/article/2355)
 
 # 项目管理
 
